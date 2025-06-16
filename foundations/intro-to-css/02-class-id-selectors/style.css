@@ -1,0 +1,19 @@
+.redBkg {
+  background-color: #ff000070;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#bigBlue {
+  color: blue;
+  font-size: 35px;
+}
+
+.big {
+  font-size: 25px;
+}
+
+#greenBold {
+  background-color: #0F0;
+  font-size: 20px;
+  font-weight: bold;
+}
