@@ -92,6 +92,45 @@
   font-weight: normal;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* SOLUTION */
 
 .container {
@@ -136,6 +175,17 @@
   align-items: center;
 }
 
+.footer {
+  grid-column: 1 / 3;
+}
+
+
+
+
+
+
+
+
 .nav ul {
   list-style-type: none;
   display: grid;
@@ -152,10 +202,4 @@
   height: 200px;
 }
 
-.card p {
-  padding: 5px;
-}
 
-.footer {
-  grid-column: 1 / 3;
-}
